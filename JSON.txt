@@ -1,0 +1,7 @@
+datos_json = json.dumps([
+    {"fecha_inscripcion": "2023-01-01", "nombre": "John Doe", "edad": 30, "peso": 70, "altura": 175, "tipo_membresia": "Básica"},
+    {"fecha_inscripcion": "2023-01-02", "nombre": "Jane Smith", "edad": 25, "peso": 65, "altura": 160, "tipo_membresia": "Premium"},
+    {"fecha_inscripcion": "2023-01-03", "nombre": "Bob Johnson", "edad": 28, "peso": 80, "altura": 180, "tipo_membresia": "Básica"},
+    {"fecha_inscripcion": "2023-01-04", "nombre": "Lisa Ray", "edad": 32, "peso": 90, "altura": 175, "tipo_membresia": "Premium"},
+    {"fecha_inscripcion": "2023-01-05", "nombre": "Alex King", "edad": 29, "peso": 76, "altura": 165, "tipo_membresia": "Básica"}
+])

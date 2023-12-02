@@ -1,0 +1,6 @@
+fecha_inscripcion,nombre,edad,peso,altura,tipo_membresia,IMC
+2023-01-01,John Doe,30,70,175,Básica,22.857142857142858
+2023-01-02,Jane Smith,25,65,160,Premium,25.390624999999996
+2023-01-03,Bob Johnson,28,80,180,Básica,24.691358024691358
+2023-01-04,Lisa Ray,32,90,175,Premium,29.387755102040817
+2023-01-05,Alex King,29,76,165,Básica,27.915518824609737
